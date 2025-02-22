@@ -5,17 +5,25 @@ A simple Wishlist App built using Jetpack Compose and Room Database to store and
 Features 🛠️
 
 ✅ Jetpack Compose for modern UI design
+
 ✅ Room Database for local data storage
+
 ✅ MVVM Architecture for clean code structure
+
 ✅ Swipe to Dismiss feature for easy deletion
+
 ✅ Navigation Component for seamless screen transitions
 
 Tech Stack 🚀
 
 🔹 Kotlin
+
 🔹 Jetpack Compose
+
 🔹 Room Database
+
 🔹 ViewModel & LiveData
+
 🔹 Navigation Component
 
 Screenshots 📸
